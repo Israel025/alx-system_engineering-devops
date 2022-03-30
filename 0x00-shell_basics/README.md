@@ -31,3 +31,5 @@
 ** The 14-copy_html script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 	======Advanced Tasks======
 ** The 100-lets_move script moves all files in the current working directory that begins with an uppercase letter to the directory /tmp/u.
+
+** The 101-clean_emacs script deletes all files in the current working directory that end with the character ~ .
