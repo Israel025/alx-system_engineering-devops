@@ -36,6 +36,11 @@
 
 ** The 102-tree script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory using a two-space formatted command.
 
-
+** The 103-commas script lists all the files and directories of the current directory, separated by commas (,) and the below format:
+    Directory names end with a slash (/)
+    Files and directories starting with a dot (.) are listed
+    The listing is alpha ordered, except for the directories . and .. which are listed at the very beginning
+    Only digits and letters are used to sort; Digits come first
+    The listing ends with a new line
 ~
 ~
