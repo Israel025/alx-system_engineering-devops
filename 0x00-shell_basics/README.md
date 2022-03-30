@@ -41,6 +41,9 @@
     Files and directories starting with a dot (.) are listed
     The listing is alpha ordered, except for the directories . and .. which are listed at the very beginning
     Only digits and letters are used to sort; Digits come first
-    The listing ends with a new line
+    The listing ends with a new line.
+
+** The school.mgc script can be used with the command file to detect School data files.
+
 ~
 ~
