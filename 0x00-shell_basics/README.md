@@ -1,5 +1,7 @@
 =====This Readme file describes what each sript in this directory does======
 
-** The  0-current_working_directory script prints the absolute path name of the current working directory.
+** The 0-current_working_directory script prints the absolute path name of the current working directory.
 
 ** The 1-listit script Display the contents list of your current directory.
+
+** The 2-bring_me_home script changes the working directory to the user’s home directory.
