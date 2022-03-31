@@ -12,3 +12,5 @@
 
 ** The 6-multiple_permissions script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
+** The 7-everybody script adds execution permission to the owner, the group owner and the other users, to the file hello.
+
