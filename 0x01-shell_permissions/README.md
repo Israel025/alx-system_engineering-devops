@@ -4,3 +4,5 @@
 
 ** The 2-groups script prints all the groups the current user is part of.
 
+** The 3-new_owner script changes the owner of the file hello to the user betty.
+
