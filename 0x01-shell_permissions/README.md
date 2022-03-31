@@ -8,3 +8,5 @@
 
 ** The 4-empty script creates an empty file called hello.
 
+** The 5-execute script adds execute permission to the owner of the file hello.
+
