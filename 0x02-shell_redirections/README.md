@@ -41,5 +41,7 @@
 
 ** The 19-AZ script replaces all characters A and c from input to Z and e respectively.
 
+** The 20-hiago script removes all letters c and C from input.
+
 
 
