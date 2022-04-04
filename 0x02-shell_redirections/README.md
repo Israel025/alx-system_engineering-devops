@@ -39,4 +39,7 @@
 
 ** The 18-letteronly script display all lines of the file /etc/ssh/sshd_config starting with a letter. including capital letters as well.
 
+** The 19-AZ script replaces all characters A and c from input to Z and e respectively.
+
+
 
