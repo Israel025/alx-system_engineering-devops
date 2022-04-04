@@ -33,5 +33,7 @@
 
 ** The 15-countthatword script display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 
+** The 16-whatsnext script display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
 
 
