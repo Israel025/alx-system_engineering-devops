@@ -43,5 +43,6 @@
 
 ** The 20-hiago script removes all letters c and C from input.
 
+** The 21-reverse script reverse its input.
 
 
