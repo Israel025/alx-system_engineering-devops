@@ -4,3 +4,5 @@
 
 ** The 2-hellofile script displays the content of the /etc/passwd file.
 
+** The 3-twofiles script displays the content of /etc/passwd and /etc/hosts.
+
