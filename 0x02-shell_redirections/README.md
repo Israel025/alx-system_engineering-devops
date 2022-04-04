@@ -45,4 +45,9 @@
 
 ** The 21-reverse script reverse its input.
 
+** The 22-users_and_homes script displays all users and their home directories, sorted by users based on the the /etc/passwd file.
+
+==========================ADVANCED TASKS===========================================
+===================================================================================
+
 
