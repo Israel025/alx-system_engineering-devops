@@ -20,4 +20,6 @@
 
 ** The 10-love_exponent_breath script displays the result of BREATH to the power LOVE. (BREATH and LOVE are environment variables)
 
+** The 11-binary_to_decimal script converts a number from base 2 to base 10. The script would display the number in base 10 (The number in base 2 is stored in the environment variable BINARY).
+
 )
