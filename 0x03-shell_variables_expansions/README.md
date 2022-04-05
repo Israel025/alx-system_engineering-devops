@@ -31,4 +31,10 @@
 
 ** The 13-print_float script prints a number with two decimal places, followed by a new line.
 
+============================ADVANCED TASKS=====================================
+===============================================================================
+
+** The 100-decimal_to_hexadecimal script converts a number from base 10 to base 16. (The number in base 10 is stored in the environment variable DECIMAL).
+
+
 
