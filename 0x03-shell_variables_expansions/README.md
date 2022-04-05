@@ -16,3 +16,6 @@
 
 ** The 8-true_knowledge script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
+** The 9-divide_and_rule script prints the result of POWER divided by DIVIDE, followed by a new line.(POWER and DIVIDE are environment variables.
+
+)
