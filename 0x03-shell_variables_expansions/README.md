@@ -5,3 +5,6 @@
 ** The 2-path script adds /action to the PATH. /action will be the last directory the shell looks into when looking for a program.
 
 ** The 3-paths script counts the number of directories in the PATH.
+
+** The 4-global_variables script lists environment variables.
+
