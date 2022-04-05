@@ -38,5 +38,7 @@
 
 ** The 101-rot13 script encodes and decodes text using the rot13 encryption. Assume ASCII.
 
+** The 102-odd script prints every other line (alternate/odd lines) from the input, starting with the first line.
+
 
 
