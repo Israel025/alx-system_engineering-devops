@@ -51,10 +51,19 @@
 ===================================================================================
 ** The 100-empty_casks script finds all empty files and directories in the current directory and all sub-directories.
 
-    Only the names of the files and directories should be displayed (not the entire path)
-    Hidden files should be listed
+    Only the names of the files and directories would be displayed (not the entire path)
+    Hidden files would be listed
     One file name per line
-    The listing should end with a new line
+    The listing ends with a new line.
+
+** The 101-gifs script lists all the files with a .gif extension in the current directory and all its sub-directories.
+    Hidden files will be listed
+    Only regular files (not directories) will be listed
+    The names of the files will be displayed without their extensions
+    The files will be sorted by byte values, but case-insensitive (file aaa will be listed before file bbb, file .b will be listed before file a, and file Rona will be listed after file jay)
+    One file name per line
+    The listing will end with a new line
+    without the use of basename, grep, egrep, fgrep or rgrep commands.
 
 
 
