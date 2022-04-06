@@ -65,5 +65,9 @@
     The listing will end with a new line
     without the use of basename, grep, egrep, fgrep or rgrep commands.
 
+** The 102-acrostic script decodes acrostics that use the first letter of each line.
+    The ‘decoded’ message ends with a new line
+    without the use of grep, egrep, fgrep or rgrep commands.
+
 
 
