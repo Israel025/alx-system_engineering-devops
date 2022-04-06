@@ -40,5 +40,8 @@
 
 ** The 102-odd script prints every other line (alternate/odd lines) from the input, starting with the first line.
 
-
+** The 103-water_and_stir script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+    WATER is in base water
+    STIR is in base stir.
+    The result is in base bestchol.
 
